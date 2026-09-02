@@ -40,5 +40,4 @@
 ### 1. استكشاف المشروع (Clone or Download)
 قم بتحميل ملف السكربت أو استنساخ المستودع:
 ```bash
-git clone [https://github.com/your-username/office-uninstaller.git](https://github.com/your-username/office-uninstaller.git)
-cd office-uninstaller
+git clone https://github.com/rightexsudo/DeleteOffice.git
