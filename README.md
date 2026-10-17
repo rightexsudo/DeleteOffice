@@ -1,4 +1,4 @@
-# 🧹 Office Uninstaller & Cleaner Script (`justdeleteOffice.py`)
+#  Office Uninstaller & Cleaner Script (`justdeleteOffice.py`)
 
 سكربت بلغة **Python** مخصص لنظام التشغيل Windows يهدف إلى **إزالة وحذف جميع إصدارات برامج Microsoft Office** المتبقية أو المستعصية بشكل كامل وشامل، مع إجراء فحص تلقائي (Verification) لتأكيد خلو النظام من أي بقايا.
 
